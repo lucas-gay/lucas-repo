@@ -1,0 +1,1129 @@
+<!--- Porque Esta Olhando AQUI ?? ---!>
+<!--- Código Criado Por Lucasss Mods War メ ---!>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="Descrição" content="">
+  <meta name="autor" content="">
+  <link href="https://indrijunanda.github.io/RuangAdmin/img/logo.png" rel="icon">
+  <title>Lucasss Mods War メ</title>
+  <link href="https://indrijunanda.github.io/RuangAdmin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://indrijunanda.github.io/RuangAdmin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="https://indrijunanda.github.io/RuangAdmin/css/ruang-admin.min.css" rel="stylesheet">
+  <link rel="shortcut icon" href="https://i.ibb.co/WWw6x6c/491a5b8d4da1f53c97bf364384bfc6fb.jpg" />
+<meta property="og:image" content="https://i.ibb.co/WWw6x6c/491a5b8d4da1f53c97bf364384bfc6fb.jpg"> 
+<meta property="og:title" content="O Melhor Dos Melhores"> <meta property="og:description" content="Lucasss Mods War メ Apis Gratuitas."> 
+<meta property="og:url" content=index.html">
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/androidstudio.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+  <script type="text/javascript">
+
+    window.setTimeout("waktu()", 1000);
+
+    function waktu() {
+        var waktu = new Date();
+        setTimeout("waktu()", 1000);
+        document.getElementById("jam").innerHTML = waktu.getHours();
+        document.getElementById("menit").innerHTML = waktu.getMinutes();
+        document.getElementById("detik").innerHTML = waktu.getSeconds();
+    }
+    </script>
+    
+  <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
+        </script-->
+</head>
+
+<body id="page-top">
+  <div id="wrapper">
+    <!-- Sidebar -->
+    
+    <ul class="navbar-nav sidebar sidebar-light accordion bg-white" id="accordionSidebar" style="color:black;">
+      <a class="sidebar-brand d-flex align-items-center justify-content-center bg-white" style="color:white;">
+        <div class="sidebar-brand-icon">
+          <img src="https://i.ibb.co/9NmX1rP/images-20.jpg">
+        </div>
+        <p class="sidebar-brand-text mx-3 text-dark ">Lucasss Mods War</p>  
+      </a>
+      <hr class="sidebar-divider my-0">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">
+          <i class="fas fa-fw fa-code"></i>
+          <span>Documentação</span></a>
+		</li>
+		<hr class="sidebar-divider">
+		<div class="sidebar-heading">
+		  Características
+		</div>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBootstrap"
+			aria-expanded="true" aria-controls="collapseBootstrap">
+			<i class="fas fa-fw fa-arrow-down"></i>
+			<span>Mídias Sociais</span>
+		  </a>
+		  <div id="collapseBootstrap" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos Mídias Sociais</h6>
+			  <a class="collapse-item" href="/api/social/play/audio?video=Bot%20Whatsapp%20Termux%20Traduzido">Play Áudios Do YouTube</a>
+			  <a class="collapse-item" href="/api/social/play/video?video=Bot%20Whatsapp%20Termux%20Traduzido">Play Vídeos Do YouTube</a>
+			  <a class="collapse-item" href="/api/social/youtube1?url=https://www.youtube.com/watch?v=_2YW--5g3lA">Baixar Áudios Do YouTube</a>
+			  <a class="collapse-item" href="/api/social/youtube2?url=https://www.youtube.com/watch?v=VgDgWzBL7s4">Baixar Vídeos Do YouTube</a>
+			  <a class="collapse-item" href="/api/social/github?nomedeusuario=LucasssMODS">Buscar Perfil Do GitHub</a>
+			  <a class="collapse-item" href="/api/social/instagram?nomedeusuario=lucas__viniciius_">Buscar Perfil Do Instagram</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseForm" aria-expanded="true"
+			aria-controls="collapseForm">
+			<i class="fas fa-fw fa-bullseye"></i>
+			<span>Educacional</span>
+		  </a>
+		  <div id="collapseForm" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos Educacionais</h6>
+			  <a class="collapse-item" href="/api/educacional/wikipedia?pergunta=Michel">Sobre Wikipédia</a>
+              <a class="collapse-item" href="/api/educacional/guitarras?pesquisa=Maiki">Sobre Guitarras</a>
+		      <a class="collapse-item" href="/api/educacional/terremotos">Sobre Terremotos</a>
+			  <a class="collapse-item" href="/api/educacional/buscaranimes?anime=darling+in+the+franxx">Pesquisar Animes 1</a>
+			  <a class="collapse-item" href="/api/educacional/buscaranimes2?anime=naruto">Pesquisar Animes 2</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsegeradores" aria-expanded="true"
+			aria-controls="collapsegeradores">
+			<i class="fas fa-fw fa-paperclip"></i>
+			<span>Geradores</span>
+		  </a>
+		  <div id="collapsegeradores" class="collapse" aria-labelledby="headinggeradores" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos De Geração</h6>
+			  <a class="collapse-item" href="/api/geradores/cpfs">Gerar Cpf</a>
+			  <a class="collapse-item" href="/api/geradores/cns">Gerar Cns</a>
+			  <a class="collapse-item" href="/api/geradores/cnpjs">Gerar Cnpj</a>
+			  <a class="collapse-item" href="/api/geradores/tokens">Gerar Token</a>
+			  <a class="collapse-item" href="/api/geradores/cartao">Gerar Cartão</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseconsultas" aria-expanded="true"
+			aria-controls="collapseconsultas">
+			<i class="fas fa-fw fa-paperclip"></i>
+			<span>Consultas</span>
+		  </a>
+		  <div id="collapseconsultas" class="collapse" aria-labelledby="headingconsultas" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos De Consultas</h6>
+			  <a class="collapse-item" href="/api/consultas/internet?ip=8.8.8.8">Consultar Ip</a>
+			  <a class="collapse-item" href="/api/consultas/internet2?ip2=8.8.8.8">Consultar Ip 2</a>
+			  <a class="collapse-item" href="/api/consultas/codigopostal?cep=01448-020">Consultar Cep</a>
+			  <a class="collapse-item" href="/api/consultas/codigopostal2?cep2=01448-020">Consultar Cep 2</a>
+			  <a class="collapse-item" href="/api/consultas/internacional?ddd=17">Consultar DDD</a>
+			  <a class="collapse-item" href="/api/consultas/juridico?cnpj=27865757000102">Consultar Cnpj</a>
+			  <a class="collapse-item" href="/api/consultas/localizacao?mapa=São%20Paulo">Consultar Mapa</a>
+			  <a class="collapse-item" href="/api/consultas/banco?id=33">Consultar Banco</a>
+			  <a class="collapse-item" href="/api/consultas/operadora?numero=17988058041">Consultar Operadora</a>
+			  <a class="collapse-item" href="/api/consultas/covid/mundial">Consultar Covid Mundial</a>
+			  <a class="collapse-item" href="/api/consultas/covid/brasileiros">Consultar Covid Brasileira</a>
+			  <a class="collapse-item" href="/api/consultas/covid/brasil?estado=sp">Consultar Covid Por Estado</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsetext" aria-expanded="true"
+			aria-controls="collapsetext">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Edição Logos</span>
+		  </a>
+		  <div id="collapsetext" class="collapse" aria-labelledby="headingtext" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos De Logos</h6>
+			  <a class="collapse-item" href="/api/logos/caderno?texto=Lucasss%20Dominah">Logo Caderno</a>
+			  <a class="collapse-item" href="/api/logos/logonaruto?texto=Lucasss%20Dominah">Logo Naruto</a>
+			  <a class="collapse-item" href="/api/logos/logoanonymous?texto=Lucasss%20Dominah">Logo Anonymous</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsephotooxy" aria-expanded="true"
+			aria-controls="collapsephotooxy">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Edição Photooxy</span>
+		  </a>
+		  <div id="collapsephotooxy" class="collapse" aria-labelledby="headingphotooxy" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos Do Photooxy</h6>
+			  <a class="collapse-item" href="/api/photooxy/logovela?texto=Lucasss%20Dominah">Logo Vela</a>
+			  <a class="collapse-item" href="/api/photooxy/logocafe?texto=Lucasss%20Dominah">Logo Café</a>
+			  <a class="collapse-item" href="/api/photooxy/logocafe2?texto=Lucasss%20Dominah">Logo Café 2</a>
+			  <a class="collapse-item" href="/api/photooxy/logoflores1?texto=Lucasss%20Dominah">Logo Flores 1</a>
+			  <a class="collapse-item" href="/api/photooxy/logoflores2?texto=Lucasss%20Dominah">Logo Flores 2</a>
+			  <a class="collapse-item" href="/api/photooxy/logoflores3?texto=Lucasss%20Dominah">Logo Flores 3</a>
+			  <a class="collapse-item" href="/api/photooxy/logofloresta?texto=Lucasss%20Dominah">Logo Floresta</a>
+			  <a class="collapse-item" href="/api/photooxy/logocoracao?texto=Lucasss%20Dominah">Logo Coração</a>
+			  <a class="collapse-item" href="/api/photooxy/logometalico?texto=Lucasss%20Dominah">Logo Metálico</a>
+			  <a class="collapse-item" href="/api/photooxy/logodourado?texto=Lucasss%20Dominah">Logo Dourado</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseanime1" aria-expanded="true"
+			aria-controls="collapseanime1">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Imagens Animes 1</span>
+		  </a>
+		  <div id="collapseanime1" class="collapse" aria-labelledby="headinganime1" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Imagens De Animes 1</h6>
+			  <a class="collapse-item" href="/api/anime/aleatorio">Anime Aleatório</a>
+			  <a class="collapse-item" href="/api/anime/lolis">Anime Lolis</a>
+			  <a class="collapse-item" href="/api/anime/waifus">Anime Waifus</a>
+			  <a class="collapse-item" href="/api/anime/neko">Anime Neko</a>
+			  <a class="collapse-item" href="/api/anime/shinobu">Anime Shinobu</a>
+			  <a class="collapse-item" href="/api/anime/megumin">Anime Megumin</a>
+			  <a class="collapse-item" href="/api/anime/valentao">Anime Valentão</a>
+			  <a class="collapse-item" href="/api/anime/abracar">Anime Abraçar</a>
+			  <a class="collapse-item" href="/api/anime/abraco">Anime Abraço</a>
+			  <a class="collapse-item" href="/api/anime/beijo">Anime Beijo</a>
+			  <a class="collapse-item" href="/api/anime/triste">Anime Triste</a>
+			  <a class="collapse-item" href="/api/anime/uwu">Anime UwU</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseanime2" aria-expanded="true"
+			aria-controls="collapseanime2">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Imagens Animes 2</span>
+		  </a>
+		  <div id="collapseanime2" class="collapse" aria-labelledby="headinganime2" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Imagens De Animes 2</h6>
+			  <a class="collapse-item" href="/api/anime/lamber">Anime Lamber</a>
+			  <a class="collapse-item" href="/api/anime/carinho">Anime Carinho</a>
+			  <a class="collapse-item" href="/api/anime/presuncoso">Anime Presunçoso</a>
+			  <a class="collapse-item" href="/api/anime/brigar">Anime Brigar</a>
+			  <a class="collapse-item" href="/api/anime/aceitar">Anime Aceitar</a>
+			  <a class="collapse-item" href="/api/anime/corar">Anime Corar</a>
+			  <a class="collapse-item" href="/api/anime/sorriso">Anime Sorriso</a>
+			  <a class="collapse-item" href="/api/anime/aceno">Anime Aceno</a>
+			  <a class="collapse-item" href="/api/anime/tocaaqui">Anime Toca Aqui</a>
+			  <a class="collapse-item" href="/api/anime/pegar">Anime Pegar</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseanime3" aria-expanded="true"
+			aria-controls="collapseanime3">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Imagens Animes 3</span>
+		  </a>
+		  <div id="collapseanime3" class="collapse" aria-labelledby="headinganime3" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Imagens De Animes 3</h6>
+			  <a class="collapse-item" href="/api/anime/comer">Anime Comer</a>
+			  <a class="collapse-item" href="/api/anime/mordida">Anime Mordida</a>
+			  <a class="collapse-item" href="/api/anime/abracos">Anime Abraços</a>
+			  <a class="collapse-item" href="/api/anime/matar">Anime Matar</a>
+			  <a class="collapse-item" href="/api/anime/tapa">Anime Tapa</a>
+			  <a class="collapse-item" href="/api/anime/feliz">Anime Feliz</a>
+			  <a class="collapse-item" href="/api/anime/piscadinha">Anime Piscadinha</a>
+			  <a class="collapse-item" href="/api/anime/cutucar">Anime Cutucar</a>
+			  <a class="collapse-item" href="/api/anime/danca">Anime Dançar</a>
+			  <a class="collapse-item" href="/api/anime/vergonhoso">Anime Vergonhoso</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseNsfw" aria-expanded="true"
+			aria-controls="collapseNsfw">
+			<i class="fas fa-fw fa-book"></i>
+			<span>Imagens Hentais</span>
+		  </a>
+		  <div id="collapseNsfw" class="collapse" aria-labelledby="headingNsfw" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos De Hentai / Nsfw</h6>
+			  <a class="collapse-item" href="/api/hentai/hentai">Hentai</a>
+			  <a class="collapse-item" href="/api/hentai/gifs">Hentai Gifs</a>
+			  <a class="collapse-item" href="/api/hentai/sexo">Hentai Sexo</a>
+			  <a class="collapse-item" href="/api/hentai/erotico">Hentai Erótico</a>
+			  <a class="collapse-item" href="/api/hentai/lolis">Hentai Lolis</a>
+			  <a class="collapse-item" href="/api/hentai/waifus">Hentai Waifus</a>
+			  <a class="collapse-item" href="/api/hentai/neko">Hentai Neko</a>
+			  <a class="collapse-item" href="/api/hentai/kuni">Hentai Kuni</a>
+			  <a class="collapse-item" href="/api/hentai/fendom">Hentai Fendom</a>
+			  <a class="collapse-item" href="/api/hentai/traveco">Hentai Traveco</a>
+			  <a class="collapse-item" href="/api/hentai/boquete">Hentai Boquete</a>
+			  <a class="collapse-item" href="/api/hentai/boquete2">Hentai Boquete 2</a>
+			  <a class="collapse-item" href="/api/hentai/boquete3">Hentai Boquete 3</a>
+			  <a class="collapse-item" href="/api/hentai/hentaiarmadilha">Hentai Armadilha</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseimagensanimais" aria-expanded="true"
+			aria-controls="collapseimagensanimais">
+			<i class="fas fa-fw fa-image"></i>
+			<span>Imagens Animais</span>
+		  </a>
+		  <div id="collapseimagensanimais" class="collapse" aria-labelledby="headingimagensanimais" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Imagens De Animais</h6>
+			  <a class="collapse-item" href="/api/imagens/animais/cachorros">Imagens De Cachorros</a>
+			  <a class="collapse-item" href="/api/imagens/animais/cachorros2">Imagens De Cachorros 2</a>
+			  <a class="collapse-item" href="/api/imagens/animais/gatos">Imagens De Gatos</a>
+			  <a class="collapse-item" href="/api/imagens/animais/gatos2">Imagens De Gatos 2</a>
+			  <a class="collapse-item" href="/api/imagens/animais/koalas">Imagens De Koalas</a>
+			  <a class="collapse-item" href="/api/imagens/animais/gansos">Imagens De Gansos</a>
+			  <a class="collapse-item" href="/api/imagens/animais/raposas">Imagens De Raposas</a>
+			  <a class="collapse-item" href="/api/imagens/animais/passaros">Imagens De Pássaros</a>
+			  <a class="collapse-item" href="/api/imagens/animais/lagartos">Imagens De Lagartos</a>
+			  <a class="collapse-item" href="/api/imagens/animais/pandas">Imagens De Pandas</a>
+			  <a class="collapse-item" href="/api/imagens/animais/pandas_vermelhos">Pandas Vermelhos</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseimagensaleatórias" aria-expanded="true"
+			aria-controls="collapseimagensaleatórias">
+			<i class="fas fa-fw fa-image"></i>
+			<span>Imagens Aleatórias</span>
+		  </a>
+		  <div id="collapseimagensaleatórias" class="collapse" aria-labelledby="headingimagensaleatórias" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Imagens Aleatórias</h6>
+			  <a class="collapse-item" href="/api/imagens/aleatorias/pornos">Pornos</a>
+			  <a class="collapse-item" href="/api/imagens/aleatorias/pikachu">Pikachu</a>
+			  <a class="collapse-item" href="/api/imagens/aleatorias/grogu">Grogu</a>
+			  <a class="collapse-item" href="/api/imagens/aleatorias/foguetes">Foguetes</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseRandom" aria-expanded="true"
+			aria-controls="collapseRandom">
+			<i class="fas fa-fw fa-image"></i>
+			<span>Recursos Aleatórios</span>
+		  </a>
+		  <div id="collapseRandom" class="collapse" aria-labelledby="headingRandom" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Recursos Aleatórios</h6>
+			  <a class="collapse-item" href="/api/aleatorios/pornos">Pornos Aleatórios</a>
+			  <a class="collapse-item" href="/api/aleatorios/memes">Memes Aleatórios</a>
+			  <a class="collapse-item" href="/api/aleatorios/frases">Frases Aleatórias</a>
+			</div>
+		  </div>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseOthers" aria-expanded="true"
+			  aria-controls="collapseOthers">
+			  <i class="fas fa-fw fa-leaf"></i>
+			  <span>Recursos Adicionais</span>
+			</a>
+			<div id="collapseOthers" class="collapse" aria-labelledby="headingOthers" data-parent="#accordionSidebar">
+			  <div class="bg-white py-2 collapse-inner rounded">
+				<h6 class="collapse-header">Recursos Adicionais</h6>
+				<a class="collapse-item" href="/api/adicionais/simsimi?texto=Eaiii,%20Gay%20!!">SimSimi</a>
+				<a class="collapse-item" href="/api/adicionais/tiny?url=https://luc4rio.herokuapp.com/api">Tiny Url</a>
+				<a class="collapse-item" href="/api/adicionais/cuttly?url=https://luc4rio.herokuapp.com/api">Cuttly Url</a>
+				<a class="collapse-item" href="/api/adicionais/gerarpessoa">Gerar Pessoa</a>
+				<a class="collapse-item" href="/api/adicionais/imgbb?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExjoynH7k1FwMYGRpVFLRgA6Ue8MFiY2-XA&usqp=CAU">Upload Imgbb</a>
+				<a class="collapse-item" href="/api/adicionais/superheroi?id=731">Super Heróis - ID</a>
+				<a class="collapse-item" href="/api/adicionais/imgtremida?url=https://i.ibb.co/9NmX1rP/images-20.jpg">Imagem Tremida</a>
+				<a class="collapse-item" href="/api/adicionais/linkwhatsapp?numero=5517988058041">Link Para Whatsapp</a>
+			  </div>
+			</div>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCheck" aria-expanded="true"
+		  aria-controls="collapseCheck">
+		  <i class="fas fa-fw fa-check"></i>
+		  <span>Entre Em Contato</span>
+		  </a>
+		  <div id="collapseCheck" class="collapse" aria-labelledby="headingCheck" data-parent="#accordionSidebar">
+			<div class="bg-white py-2 collapse-inner rounded">
+			  <h6 class="collapse-header">Fale Comigo</h6>
+			  <a class="collapse-item" href="https://github.com/LucasssMODS">GitHub</a>
+			  <a class="collapse-item" href="https://t.me/LUC4RIO">Telegram</a>
+			  <a class="collapse-item" href="https://www.instagram.com/lucas__viniciius_/">Instagram</a>
+			  <a class="collapse-item" href="https://api.whatsapp.com/send?phone=5517988058041&text=Ol%C3%A1%2C%20Lucasss">WhatsApp</a>
+			</div>
+		  </div>
+		</li>
+		<hr class="sidebar-divider">
+		<div class="version" id="version-ruangadmin"></div>
+	  </ul>
+    <!-- Sidebar -->
+    <div id="content-wrapper" class="d-flex flex-column">
+      <div id="content">
+        <!-- TopBar -->
+        <nav class="navbar navbar-expand navbar-light bg-navbar topbar mb-4 static-top bg-gradient-danger">
+          <button id="sidebarToggleTop" class="btn btn-link rounded-circle mr-3">
+            <i class="fa fa-bars"></i>
+          </button>
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown no-arrow">
+              <a class="nav-link dropdown-toggle" href="#" id="JamNav" role="button" data-toggle="modal" aria-haspopup="true" aria-expanded="false">
+				<button type="button" class="btn btn-white text-dark" data-toggle="modal" data-target="#exampleModalCenter" id="#modalCenter"><span id="jam" style="font-size: 20px">:</span> :
+                    <span id="menit" style="font-size: 20px">:</span> :
+                    <span id="detik" style="font-size: 20px"></span></button>
+              </a>
+            </li>
+            <!--<li class="nav-item dropdown no-arrow">
+              <a class="nav-link dropdown-toggle" id="ApiKeyDropdown" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-check fa-fw"></i>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right p-3 shadow animated--grow-in"
+                aria-labelledby="ApiKeyDropdown">
+                <form action="/checklimit">
+                  <div class="input-group">
+                    <input type="text" class="form-control bg-light border-1 small" placeholder="Your Apikey"
+                      aria-label="ApiKey" aria-describedby="basic-addon2" style="border-color: #3f51b5;" name="apiKey" required>
+                    <div class="input-group-append">
+                      <button class="btn btn-primary" type="button">Check
+                        <i class="fas fa-check fa-sm"></i>
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </li>
+            <li class="nav-item dropdown no-arrow">
+              <a class="nav-link dropdown-toggle" id="ApiKeyDropdown" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-check fa-fw"></i>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right p-3 shadow animated--grow-in"
+                aria-labelledby="ApiKeyDropdown">
+                <form action="/checklimit">
+                  <div class="input-group">
+                    <input type="text" class="form-control bg-light border-1 small" placeholder="Your Apikey"
+                      aria-label="ApiKey" aria-describedby="basic-addon2" style="border-color: #3f51b5;" name="apiKey" required>
+                    <div class="input-group-append">
+                      <button class="btn btn-primary" type="button">Check
+                        <i class="fas fa-check fa-sm"></i>
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </li>
+<!--            <li class="nav-item dropdown no-arrow">
+              <a class="nav-link dropdown-toggle" href="#" id="JamNav" role="button" data-toggle="modal"
+                aria-haspopup="true" aria-expanded="false">
+				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter"
+                    id="#modalCenter"><span id="Jam"><a id="jam"></a> :
+            <a id="menit"style="font-size: 20px"style="font-size: 20px"></a><a style="font-size: 20px"> :</a>
+        <a id="detik" style="font-size: 20px"></a></span></button>
+              </a>
+            </li>-->
+            
+            <div class="topbar-divider d-none d-sm-block"></div>
+<li class="nav-item dropdown no-arrow mx-1">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="alertsDropdown" role="button">
+<i class="fas fa-bell fa-fw"></i>
+<span class="badge badge-danger badge-counter">4</span>
+</a>
+<div aria-labelledby="alertsDropdown" class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in">
+<h6 class="dropdown-header">
+					Centro De Alertas
+				  </h6>
+  <a class="dropdown-item d-flex align-items-center">
+  <div class="mr-3">
+  <div class="icon-circle bg-primary">
+  <i class="fas fa-file-alt text-white"></i>
+  </div>
+  </div>
+  <div>
+  <div class="small text-gray-500">20 De Abril De 2021</div>
+  Todas As Apis Estão Funcionando!!</div>
+  </a>
+  <a class="dropdown-item d-flex align-items-center">
+  <div class="mr-3">
+  <div class="icon-circle bg-warning">
+  <i class="fas fa-exclamation-triangle text-white"></i>
+  </div>
+  </div>
+  <div>
+  <div class="small text-gray-500">20 De Abril De 2021</div>
+  Reporte Erros Para O Dono!!</div>
+  </a>
+  <a class="dropdown-item d-flex align-items-center">
+  <div class="mr-3">
+  <div class="icon-circle bg-warning">
+  <i class="fas fa-donate text-white"></i>
+  </div>
+  </div>
+  <div>
+  <div class="small text-gray-500">20 De Abril De 2021</div>
+  $ Doe Para O Nosso WebSite $</div>
+  </a>
+  <a class="dropdown-item d-flex align-items-center">
+  <div class="mr-3">
+  <div class="icon-circle bg-warning">
+  <i class="fas fa-podcast text-white"></i>
+  </div>
+  </div>
+  <div>
+  <div class="small text-gray-500">20 De Abril De 2021</div>
+  Apis Limitadas E Sem Chave De Api!!
+  </div>
+  </a>
+  <!-- <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a> -->
+  </div>
+  </li>
+            <li class="nav-item dropdown no-arrow">
+				<a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown"
+				  aria-haspopup="true" aria-expanded="false">
+				  <img class="img-profile rounded-circle" src="https://i.ibb.co/m8mn94F/images-19.jpg" style="max-width: 100px">
+				  <span class="ml-2 d-none d-lg-inline text-white small">I'm Lucasssメ !!</span>
+				</a>
+				<!--<div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+				  <a class="dropdown-item">
+					<i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+					Profile
+				  </a>
+				  <a class="dropdown-item">
+					<i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+					Settings
+				  </a>
+				  <a class="dropdown-item">
+					<i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
+					Activity Log
+				  </a>
+				</div>-->
+			  </li>
+			</ul>
+					<section class="section">
+		  </nav>        <!-- Topbar -->
+			  <div class="container">
+				  <div class="columns">
+					  <div class="column is-offset-4 is-4">
+						 <div class="row"> 
+			<div class="col-lg-12"> 
+			<div class="card mb-4"> 
+			<div class="card-header bg-warning py-3 d-flex flex-row align-items-center justify-content-between"> 
+			<h6 class="m-0 font-weight-bold text-white">Lucasss Mods War <i class="fab fa-fw fa-html5"></i></h6>
+			</div> 
+			<div class="card-body"> 
+			<style>img{}</style>
+			<p style="text-align:center;"><img src="https://i.ibb.co/9NmX1rP/images-20.jpg" class="rounded mx-auto d-block" alt="Girl in a jacket" style="width:80%">
+			</div> 
+			</div> 
+			</div> 
+			</div> 
+					  </div>
+				  </div>
+			  </div>
+	    </section>
+	    <!--img src=" width="299px" height="299px"-->
+	     
+	    <!--div aria-live="polite" aria-atomic="true" class="d-flex justify-content-center align-items-center w-100">
+      <div id="toast3"class="toast" class="alert alert-danger alert-dismissible" role="alert" aria-live="assertive" aria-atomic="true" data-delay="700">
+      <div id="toast4" class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false">
+        <div class="toast-header">
+            <svg class="bd-placeholder-img rounded mr-2" width="20" height="20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#1de9b6"></rect></svg>
+            <strong class="mr-auto">UPDATE </strong>
+            <small> </small>
+            <button type="button" class="ml-4 mb-2 close" data-dismiss="toast" aria-label="Close">
+              <span aria-hidden="true">×</span>
+            </button>
+        </div>
+        <div class="toast-body">
+          <h6>Halo gays ini adalah list update terbaru<h6>
+            • Arti mimpi <br>
+            • simi <br> 
+            • Bpk font <br>
+            • lirik lagu <br>
+            • nulis <br>
+            • nama ninja/Jepang <br>
+            • translate 
+        </div>
+    </div>
+</div>
+</div-->
+<br>
+        <!-- Container Fluid-->
+        <!-- Container Fluid-->
+        <div class="container-fluid" id="container-wrapper">
+          <!-- Attention -->
+          <div id="demo" class="alert alert-danger alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span id="demo" aria-hidden="true"></span>
+            </button>
+            <b><marquee scrolldelay="20" scrollamount="2" style="border:2px solid;" direction="left" behavior="scroll" width="100%"><font color="white" face="Tahoma" size="3">  Bem-Vindo Ao Nosso Web Site, Espero Que Goste De Todos Os Nossos Recursos Que Fornecemos Para Vocês!!!    </font></marquee></p><p align="center"></b>
+        
+        <script>
+arrBulan = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
+  var txt = "";
+  txt += "<p><b>Nome Do Navegador: " + navigator.appCodeName + "</b></p>";
+  txt += "<p><b>Cookies?: " + navigator.cookieEnabled + "</b></p>";
+  txt += "<p><b>Plataforma: " + navigator.platform + "</b></p>";
+  txt += "<p><b>Cabeçalho Do Usuário: " + navigator.userAgent + "</b></p>";
+  var d = new Date();
+  const jam = d.getHours();
+  const menit = d.getMinutes();
+  const detik = d.getSeconds();
+  const tgl = d.getDate();
+  const bln = d.getMonth();
+  const thn = d.getFullYear();
+  const bulan = arrBulan[bln]
+  /* if (jam > 1 && jam < 11) {
+  *	view.innerHTML = 'Selamat pagi :)';
+  * } else if (jam > 11 && < 15) {
+  *	view.innerHTML = 'Selamat siang :)';
+  * } else if (jam > 15 && < 18) {
+  *	view.innerHTML = 'Selamat sore :)';
+  * } else if (jam > 18 && < 24) {
+  *	view.innerHTML = 'Selamat malam'
+  * } else {
+  *	view.innerHTML = 'Selamat datang:)'
+  * }
+  */
+  document.write(txt)
+  document.write("Data: "+ tgl +" - "+ bulan +" - "+ thn +"<br>Bem Vindo De Volta!!!")</script>
+        <!--script>
+arrBulan = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+var txt = "";
+txt += "<p><b>Browser CodeName</b>: " + navigator.appCodeName + "</p>";
+txt += "<p><b>Browser Name</b>: " + navigator.appName + "</p>";
+txt += "<p><b>Cookies Enabled</b>: " + navigator.cookieEnabled + "</p>";
+txt += "<p><b>Browser Online</b>: " + navigator.onLine + "</p>";
+txt += "<p><b>Platform</b>: " + navigator.platform + "</p>";
+txt += "<p><b>User-Agent</b>: " + navigator.userAgent + "</p>";
+var d = new Date();
+const jam = d.getHours();
+const menit = d.getMinutes();
+const detik = d.getSeconds();
+const tgl = d.getDate();
+const bln = d.getMonth();
+const thn = d.getFullYear();
+const bulan = arrBulan[bln]
+/* if (jam > 1 && jam < 11) {
+*	view.innerHTML = 'Selamat pagi :)';
+* } else if (jam > 11 && < 15) {
+*	view.innerHTML = 'Selamat siang :)';
+* } else if (jam > 15 && < 18) {
+*	view.innerHTML = 'Selamat sore :)';
+* } else if (jam > 18 && < 24) {
+*	view.innerHTML = 'Selamat malam'
+* } else {
+*	view.innerHTML = 'Selamat datang:)'
+* }
+*/
+document.write(txt)
+document.write("Date : "+ jam +":"+ menit +":"+ detik +"~"+ tgl +"-"+ bulan +"-"+ thn +"<br>Welcome back!")</script-->
+</div>
+<style>@keyframes animatedBackground_c {
+	0% {-webkit-text-stroke-color: #ff8b00}
+	10% {-webkit-text-stroke-color: #e8ff00}
+	20% {-webkit-text-stroke-color: #5dff00}
+	30% {-webkit-text-stroke-color: #00ff2e}
+	40% {-webkit-text-stroke-color: #00ffb9}
+	50% {-webkit-text-stroke-color: #00b9ff}
+	60% {-webkit-text-stroke-color: #002eff}
+	70% {-webkit-text-stroke-color: #5d00ff}
+	80% {-webkit-text-stroke-color: #e800ff}
+	90% {-webkit-text-stroke-color: #ff008b}
+	100% {-webkit-text-stroke-color: #ff0000}
+}</style>
+<style>@keyframes ketik{
+		from { width: 0; }
+}@-webkit-keyframes ketik{
+		from { width: 0; }
+}</style>
+<div class="row mb-3">
+            <!-- Earnings (Monthly) Card Example --
+            <div class="col-xl-12 col-md-6 mb-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <div class="row align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">TOTAL FITUR</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">26 FITUR</div>
+                      <div class="mt-2 mb-0 text-muted text-xs">
+                        <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 30.78%</span>
+                        <span>Jarang Update</span>
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-calendar fa-2x text-primary"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Earnings (Annual) Card Example >
+            <div class="col-xl-12 col-md-6 mb-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">DONASI KE ADMIN</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">RP.0</div>
+                      <div class="mt-2 mb-0 text-muted text-xs">
+                        <span class="text-danger mr-2"><i class="fas fa-arrow-down"></i> 0.00%</span>
+                        <span>Donasi Untuk Suport</span>
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-donate fa-2x text-success"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <!-- Attention -->
+			  <div class="col-xl-12 col-md-6 mb-4">
+  <div class="card h-100">
+  <div class="card-body">
+  <div class="row no-gutters align-items-center">
+  <div class="col mr-2">
+  <div class="text-xs font-weight-bold text-uppercase mb-1">Número Total De Visitantes</div>
+  <div class="h5 mb-0 font-weight-bold text-gray-800">
+  <div id="count">00</div>
+  </div>
+  <div class="mt-2 mb-0 text-muted text-xs">
+  <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 100%</span>
+  </span>
+  <span>Número De Visitantes Do WebSite</span>
+  </div>
+  </div>
+  <div class="col-auto">
+  <i class="fas fa-eye fa-2x text-primary"></i>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <!-- Mostrar IP Usuários  -->
+  <div class="col-xl-12 col-md-6 mb-4">
+  <div class="card h-100">
+  <div class="card-body">
+  <div class="row no-gutters align-items-center">
+  <div class="col mr-2">
+  <div class="h5 mb-0 font-weight-bold text-gray-800">
+  <div align=center id="findipwidget"></div><div class="findiplink" id="findipurl">Fornecido Por: <a href="http://www.find-ip.net/" target="_blank">Meu-IP.Net</a></div><script defer src="//api.find-ip.net/widget.js?width=240&bg=transparent&border=transparent&city=0&language=0&system=0&textcol=black&"></script>
+  </div>
+  <div class="mt-2 mb-0 text-muted text-xs">
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+            <!--div class="col-xl-12 col-lg-5">
+              <div class="card mb-4">
+              	<div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+              	<h6 class="m-0 font-weight-bold text-primary">Progamming Skill</h6>
+                  <div class="dropdown no-arrow">
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                      aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">Select Periode</div>
+                      <a class="dropdown-item" href="#">Today</a>
+                      <a class="dropdown-item" href="#">Week</a>
+                      <a class="dropdown-item" href="#">This Year</a>
+                    </div>
+                  </div>
+                </div>
+<div class="card-body">
+                  <div class="mb-3">
+                    <div class="small text-gray-500">Python
+                      <div class="small float-right"><b>30%</b></div>
+                    </div>
+                    <div class="progress" style="height: 12px;">
+                      <div class="progress-bar bg-primary" role="progressbar" style="width: 30%" aria-valuenow="30"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                  <div class="mb-3">
+                    <div class="small text-gray-500">JavaScript
+                      <div class="small float-right"><b>10%</b></div>
+                    </div>
+                    <div class="progress" style="height: 12px;">
+                      <div class="progress-bar bg-warning" role="progressbar" style="width: 10%" aria-valuenow="10"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                  <div class="mb-3">
+                    <div class="small text-gray-500">HTML
+                      <div class="small float-right"><b>86%</b></div>
+                    </div>
+                    <div class="progress" style="height: 12px;">
+                      <div class="progress-bar bg-danger" role="progressbar" style="width: 86%" aria-valuenow="86"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                  <div class="mb-3">
+                  </div>
+                  <div class="mb-3">
+                  </div>
+                </div>
+                <div class="card-footer text-center">
+                </div>
+              </div>
+            </div-->
+            <!-- New User Card Example -->
+            <!--div class="col-xl-3 col-md-6 mb-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">New User</div>
+                      <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">366</div>
+                      <div class="mt-2 mb-0 text-muted text-xs">
+                        <span class="text-success mr-2"><i class="fas fa-arrow-up"></i> 20.4%</span>
+                        <span>Since last month</span>
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-users fa-2x text-info"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div-->
+            <!-- Pending Requests Card Example -
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card h-100">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">Pending Requests</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">18</div>
+                      <div class="mt-2 mb-0 text-muted text-xs">
+                        <span class="text-danger mr-2"><i class="fas fa-arrow-down"></i> 1.10%</span>
+                        <span>Since yesterday</span>
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-comments fa-2x text-warning"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div-->
+                        </div>
+   
+      
+   
+          <!-- Attention --
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="card mb-4">
+                <!--center>   <h1 class="animated">HALLO GAYS<br></h1> </center--
+                <div class="card-header py-1 d-flex flex-row align-items-center justify-content-between">
+                </div>
+                <!--div class="card-body">
+                  <h6 class="m-0 font-weight-bold text-warning">
+                  support me by donate:
+                  </h6>
+                  <br>
+                  <a class="btn btn-info btn-icon-split" href="https://link.dana.id/qr/26sifccg" target="_blank">
+                  <span class="icon text-white-50">
+                  <i class="fas fa-money-bill">
+                  </i>
+                  </span>
+                  <span class="text">
+                  DANA
+                  </span>
+                  </a>
+                  <a class="btn btn-success btn-icon-split" href="https://wa.me/+6287877173955?text=kak+saya+mau+donasi+pulsa" target="_blank">
+                  <span class="icon text-white-50">
+                  <i class="fas fa-credit-card" aria-hidden="true">
+                  </i>
+                  </span>
+                  <span class="text">
+                  Pulsa
+                  </span>
+                  </a>
+                  <br>
+                  <br>
+                  <h6 class="m-0 font-weight-bold text-warning">
+                  Sosial Media:
+                  </h6>
+                  <br>
+                  <a class="btn btn-danger btn-icon-split" href="https://instagram.com/ferdiz_afk" target="_blank">
+                  <span class="icon text-white-50">
+                  <i class="fab fa-instagram">
+                  </i>
+                  </span>
+                  <span class="text">
+                  Instagram
+                  </span>
+                  </a>
+                  
+                  <!--a class="btn btn-warning btn-icon-split" href="#" target="_blank">
+                  <span class="icon text-white-50">
+                  <i class="fab fa-github">
+                  </i>
+                  </span>
+                  <span class="text">
+                  Github
+                  </span>
+                  </a>
+                  <br>
+                  <!--a class="btn btn-warning btn-icon-split" href="https://www.kocakz.xyz" target="_blank">
+                  <span class="icon text-white-50">
+                  <i class="fas fa-rss" aria-hidden="true">
+                  </i>
+                  </span>
+                  <span class="text">
+                  Blog
+                  </span>
+                  </a>
+                  <div class="alert alert-success" role="alert">
+                  <!--h4 class="alert-heading">I LOVE YOU</h4>
+                  </div>
+              </div--
+            </div>
+          </div>
+          </div>
+          
+          --Row-->
+          
+          
+          <!-- Efek Mengetik -->
+          <style>@keyframes animatedBackground_c {
+          0% {-webkit-text-stroke-color: #ff8b00}
+          10% {-webkit-text-stroke-color: #e8ff00}
+          20% {-webkit-text-stroke-color: #5dff00}
+          30% {-webkit-text-stroke-color: #00ff2e}
+          40% {-webkit-text-stroke-color: #00ffb9}
+          50% {-webkit-text-stroke-color: #00b9ff}
+          60% {-webkit-text-stroke-color: #002eff}
+          70% {-webkit-text-stroke-color: #5d00ff}
+          80% {-webkit-text-stroke-color: #e800ff}
+          90% {-webkit-text-stroke-color: #ff008b}
+          100% {-webkit-text-stroke-color: #ff0000}
+          }@keyframes animasi-ketik{
+          from { width: 0; }
+          }@-webkit-keyframes animasi-ketik{
+          from { width: 0; }
+          }</style>
+          <!-- Akhir Code Efek Mengetik -->
+          
+          <!--AWAL KODE GAMBAR BERGANTIAN-->
+          <style>*{box-sizing:border-box}body{font-family:Verdana,sans-serif}.fade{-webkit-animation-name:fade;-webkit-animation-duration:1.5s;animation-name:fade;animation-duration:1.5s}@keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+          }</style>
+          							<style>
+							.blink {
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}</style>
+          <!--AKHIR DATA GAMBAR BERGANTIAN-->
+          
+          <!--div class="row"> 
+          <div class="col-lg-12"> 
+          <div class="card mb-4"> 
+          <div class="card-header bg-warning py-3 d-flex flex-row align-items-center justify-content-between"> 
+          <h6 class="m-0 font-weight-bold text-white">ANIME</h6> 
+          </div> 
+          <div class="card-body"> 
+          <div class="slideshow-container">
+          
+          <div class="mySlides fade">
+          <p style="text-align:center;"> <img src="https://i.waifu.pics/aGY3-X6.jpg" style="width:68%">
+          <!--hr><br><b><div class="text">Fadhil Graphy</div></b>
+          </div>
+          
+          <div class="mySlides fade">
+          <p style="text-align:center;"> <img src="https://i.waifu.pics/R5n5P7f.png" style="width:68%">
+          <!--hr><br><b><div class="text">ItsmeikyXsec404</div></b>
+          </div>
+          
+          <div class="mySlides fade">
+          <p style="text-align:center;"> <img src="https://i.waifu.pics/B-CZCbU.png" style="width:68%">
+          <!--b><hr><br><b><div class="text">Arga</b></div>
+          </div>
+          
+          <div class="mySlides fade">
+          <p style="text-align:center;"> <img src="https://i.waifu.pics/FWE8ggD.png" style="width:68%">
+          <!--b><hr><br><div class="text">Ramalan Id</b></div>
+          </div>
+          
+          </div>
+          
+          
+          <div style="text-align:center">
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+          </div>
+          
+          <script>
+          var slideIndex = 0;
+          showSlides();
+          
+          function showSlides() {
+          var i;
+          var slides = document.getElementsByClassName("mySlides");
+          var dots = document.getElementsByClassName("dot");
+          for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";  
+          }
+          slideIndex++;
+          if (slideIndex> slides.length) {slideIndex = 1}    
+          for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+          setTimeout(showSlides, 2300); // Change image every 2 seconds
+          }
+          </script>
+          </div>
+          </div>
+          </div>
+          </div-->
+          <!-- Lista De Informações -->
+          
+			<!-- Atenção -->
+			  <div class="row">
+			  <div class="col-lg-12">
+			  <div class="card mb-4">
+  <div class="card-header bg-warning py-3 d-flex flex-row align-items-center justify-content-between">
+			  <h6 class="m-0 font-weight-bold text-white">INFORMAÇÃO</h6>
+			  </div>
+			  <div class="card-body">
+			  <h6><b>Administrador :</b> <a href="https://api.whatsapp.com/send?phone=5517988058041&text=Ol%C3%A1%2C%20Lucasss">Lucasss Mods War メ</a>
+			  <h6><br><b>Este WebSite É A Forma Do Meu Aprendizado</b><br><b>Desculpe, Se Ainda Houver Bugs / Erros.</b><br><b>Entre Em Contato Comigo Via WhatsApp !!</a></b><br>
+			  <h6><br>AGRADECIMENTOS ESPECIAIS : <br>• <a href="https://api.whatsapp.com/send?phone=555399726611&text=Ol%C3%A1%2C%20Leonardo">Leonardo [ Brabooh ]</a><br>• <a href="https://github.com/Zhirrr?tab=repositories">Zhirrr [ Brabooh ]</a>
+			  <h6><br>Se Você Encontrar Um Bug  <i class="fa fa-bug"></i>  Por Favor Reportar Imediatamente Para <a href="https://api.whatsapp.com/send?phone=5517988058041&text=Ol%C3%A1%2C%20Lucasss">Lucasss Mods War </a>E Aproveite Nossos Recursos (*﹏*)</h6>
+			  </div>
+			  </div>
+			  </div>
+			  </div>
+			
+			
+			
+			
+			
+			<!-- Fileira -->
+          <!-- Mode De Saída -->
+          <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabelLogout" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabelLogout">Olk Mano Nãããooo !!</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <p>Tem Certeza Que Deseja Sair ??</p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cancel</button>
+                  <a href="login.html" class="btn btn-primary">Sair</a>
+                </div>
+              </div>
+            </div>
+          </div>
+           <!--Row-->
+  
+			<!-- Modal Logout -->
+			<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabelLogout"
+			  aria-hidden="true">
+			  <div class="modal-dialog" role="document">
+				<div class="modal-content">
+				  <div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabelLogout">Ohh No!</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					  <span aria-hidden="true">&times;</span>
+					</button>
+				  </div>
+				  <div class="modal-body">
+					<p>Deseja Deslogar?</p>
+				  </div>
+				  <div class="modal-footer">
+					<button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cancel</button>
+					<a href="login.html" class="btn btn-primary">Logout</a>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
+		  </div>
+		  <!-- Fluido Do Recipiente -->
+		</div>
+		<!-- Rodapé -->
+				  <div class="row">
+			  <div class="col-lg-12 text-center">
+				<p>Gostou Da API? Me Segue Lá No Github : <a href="https://github.com/LucasssMODS" class="btn btn-primary btn-sm" target="_blank"><i class="fab fa-fw fa-github"></i>&nbsp;GitHub</a></p>
+			  </div>
+			</div>
+		<footer class="sticky-footer bg-white">
+		  <div class="container my-auto">
+			<div class="copyright text-center my-auto">
+			  <span>copyright &copy; <script> 
+  
+  document.write(new Date().getFullYear()); 
+  </script> -
+				<b><a href="https://api.whatsapp.com/send?phone=5517988058041&text=Ol%C3%A1%2C%20Lucasss" target="_blank">Lucasss Mods War</a></b>
+			  </span>
+			  <span style="color: #e25555;" class="blink">&hearts;</span>
+			</div>
+		  </div>
+		</footer>
+		<!-- Rodapé -->
+	  </div>
+	</div>
+	<!-- Role Para Cima -->
+	<a class="scroll-to-top rounded" href="#page-top">
+	  <i class="fas fa-angle-up"></i>
+	</a>
+  
+	<script src="https://indrijunanda.github.io/RuangAdmin/vendor/jquery/jquery.min.js"></script>
+	<script src="https://indrijunanda.github.io/RuangAdmin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="https://indrijunanda.github.io/RuangAdmin/vendor/jquery-easing/jquery.easing.min.js"></script>
+	<script src="https://indrijunanda.github.io/RuangAdmin/js/ruang-admin.min.js"></script>
+  <script>
+	  $(document).ready(function(){
+		$('.toast').toast('show')
+	  });
+  </script>
+  <script>
+  const countEl = document.getElementById('count');
+  
+  updateVisitCount();
+  
+  function updateVisitCount() {
+	  fetch('https://api.countapi.xyz/hit/luc4rio.herokuapp.com/visits')
+	  .then(res => res.json())
+	  .then(res => {
+		  countEl.innerHTML = res.value;
+	  })
+  }
+  </script>
+  
+	  
+  </body>
+  
+  </html>
